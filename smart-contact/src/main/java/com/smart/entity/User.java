@@ -87,7 +87,18 @@ public class User {
 		private String secondName;
 		
 		private String work;
+//	*	This is is nckdkjsajhdjs
+//		sabhjgsjk
+//		bjhbasdjasakN
+//		
+//		
+//		absjavajsshaaksjh
 		
+//		bjvsaashvaHBSAVSAB
+		
+		
+		
+//		ABVSAJVBSAJBSAJVSAJSAB
 		private String email;
 		
 		private String phone;
